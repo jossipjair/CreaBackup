@@ -1,0 +1,11 @@
+C:\Users\Jossip\AppData\Local\Temporary Projects\pryRealizarBackup\bin\Debug\pryRealizarBackup.exe.config
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\obj\Debug\pryRealizarBackup.Form1.resources
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\obj\Debug\pryRealizarBackup.Resources.resources
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\obj\Debug\pryRealizarBackup.vbproj.GenerateResource.Cache
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\bin\Debug\Realizar Backup.exe.config
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\bin\Debug\Realizar Backup.exe
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\bin\Debug\Realizar Backup.pdb
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\bin\Debug\Realizar Backup.xml
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\obj\Debug\Realizar Backup.exe
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\obj\Debug\Realizar Backup.xml
+E:\PROYECTOS\pryCrearBackup\pryRealizarBackup\pryRealizarBackup\obj\Debug\Realizar Backup.pdb
